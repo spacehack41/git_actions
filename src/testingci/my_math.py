@@ -1,7 +1,7 @@
 
 
 def add(a,b):
-    return a
+    return b
 
 
 def mult(a,b):
